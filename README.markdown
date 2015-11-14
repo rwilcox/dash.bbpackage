@@ -3,6 +3,8 @@ Dash Package
 
 Makes working with [Dash](https://kapeli.com/dash) in BBEdit easy!
 
+For the cheatsheet generation to work you must install [cheatset](https://github.com/Kapeli/cheatset).
+
 Cheatsheets
 --------------
 
@@ -16,10 +18,12 @@ Contributions accepted for other Dash features (like making Docsets...)
 Installation
 ============
 
+    $ sudo gem install cheatset
     $ cd Library/Application\ Support/BBEdit/
     $ mkdir Packages # if it doesn't already exists
     $ cd Packages
     $ git clone https://github.com/rwilcox/dash.bbpackage.git
+
 
 
 License
