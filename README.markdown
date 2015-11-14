@@ -8,6 +8,11 @@ Cheatsheets
 
 This package makes creating a  cheatsheet very easy (see [cheat.kapeli.com/](https://cheat.kapeli.com/)).
 
+????
+--------------
+
+Contributions accepted for other Dash features (like making Docsets...)
+
 Installation
 ============
 
